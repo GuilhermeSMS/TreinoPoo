@@ -1,4 +1,4 @@
-package br.appLoggin;
+package br.Funcionarios;
 
 public abstract class Funcionario {
 

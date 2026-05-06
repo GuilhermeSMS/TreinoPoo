@@ -1,4 +1,4 @@
-package br.appLoggin;
+package br.Funcionarios;
 
 public class Estagiario extends Funcionario{
     private double bolsa;
